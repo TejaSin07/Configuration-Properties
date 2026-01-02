@@ -1,1 +1,4 @@
 msg : good morning sir
+  profiles:
+    active:
+    - qa
